@@ -63,27 +63,6 @@ def most_common_chinese_characters
   end
 end
 
-# the "anki" gem does not allow you to define a separator and always
-# uses a semicolon. This breaks anki imports of the decks generated
-# from the web page we're scraping.
-#
-# The pipe character is not used on the web page, so it's a safe choice.
-module Anki
-  class Deck
-    def card_header_to_string
-      "#" + self.card_headers.join("|") + "\n"
-    end
-
-    def card_data_to_string(card)
-      raise ArgumentError, "card must be a hash" if !card.is_a?(Hash)
-
-      card.default = ""
-
-      self.card_headers.map{ |header| card[header] }.join("|")
-    end
-  end
-end
-
 def build_deck_of_top_n_cards(num_cards)
   raise ArgumentError, "num_cards must be an integer" unless num_cards.class < Integer
 
@@ -100,7 +79,7 @@ def build_deck_of_top_n_cards(num_cards)
     }
   end
 
-  deck = Anki::Deck.new(card_headers: headers, card_data: cards)
+  deck = Anki::Deck.new(card_headers: headers, card_data: cards, field_separator: "|")
 
   output_path = "decks/#{output_deck_filename}"
   deck.generate_deck(file: output_path)

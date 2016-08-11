@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    anki (0.0.3)
+    anki (0.0.4)
     mini_portile2 (2.1.0)
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
@@ -13,7 +13,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  anki (= 0.0.3)
+  anki (= 0.0.4)
   nokogiri (= 1.6.8)
   tradsim (= 0.5.1)
 
