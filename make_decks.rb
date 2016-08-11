@@ -40,16 +40,11 @@ def most_common_chinese_characters
       end
 
       character = row.xpath("td")[1].text
-      # use #inner_html because #text eats <BR> without converting it to a newline
-      description = row.xpath("td")[2].inner_html
-
-      if character == "仆"
-        puts "Description: #{description}"
-      end
-
       character.promote_traditional!
       character.remove_simplified!
 
+      # use #inner_html because #text eats <BR> without converting it to a newline
+      description = row.xpath("td")[2].inner_html
       description.gsub!(/&amp;/i, "&")
       description.gsub!(/&lt;/i, "<")
       description.gsub!(/&gt;/i, ">")
