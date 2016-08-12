@@ -1,9 +1,9 @@
 #front|back
-的|[de] <grammatical particle marking genitive as well as simple and composed adjectives>; 我的 wǒde my; 高的 gāode high, tall; 是的 shìde that's it, that's right; 是...的 shì...de one who...; 他是說漢語的. Tā shì shuō Hànyǔde. He is one who speaks Chinese.<br /><br /><br /><br />[dì] 目的 mùdì goal<br /><br /><br /><br />[dí] true, real; 的確 díquè certainly
+的|[de] {grammatical particle marking genitive as well as simple and composed adjectives}>; 我的 wǒde my; 高的 gāode high, tall; 是的 shìde that's it, that's right; 是...的 shì...de one who...; 他是說漢語的. Tā shì shuō Hànyǔde. He is one who speaks Chinese.<br /><br /><br /><br />[dì] 目的 mùdì goal<br /><br /><br /><br />[dí] true, real; 的確 díquè certainly
 一(A壹)|[yī] one, a little; 第一 dì-yī first, primary; 看一看 kànyīkàn have a (quick) look at<br /><br /><br /><br />[yí] (used before tone #4); 一個人 yí gè rén one person; 一定 yídìng certain; 一樣 yíyàng same; 一月yíyuè January<br /><br /><br /><br />[yì] (used before tones #2 and #3); 一點兒 yìdiǎnr a little; 一些 yìxiē some<br /><br /><br /><br />{Compare with 麽 yāo, which also means "one"}
 是|[shì] to be, 是不是? shìbushì? is (it) or is (it) not?; 是否 shìfǒu whether or not, is (it) or is (it) not?
 不|[bù] not<br /><br /><br /><br />[bú] (used before tone #4); 不是 bú shì isn't
-了|[le] <verb particle marking a new situation or a completed action>; 你來了! Nǐ láile! You have come! 我累了! Wǒ lèile! I've gotten tired! 那好了! Nà hǎole! That's OK (now)! 我只請了一位客人. Wǒ zhǐ qǐngle yí wèi kèren. I invited only one guest.<br /><br /><br /><br />[liǎo] end, finish, settle, dispose of, know clearly, to be able, (=了解 liǎojiě) understand, comprehend; 了了 liǎoliaǒ clearly understand, settle (a debt/etc.), to be intelligent; 了了 liǎole <colloquial> to be over/ended/finnish/settled; 你賣不了! Nǐ mài bùliǎo! You will not be able to sell (it)!<br /><br /><br /><br />[liào] (=瞭 liaò) to survey/watch<br /><br /><br /><br />{Compare with 子 zǐ child}</colloquial>
+了|[le] {verb particle marking a new situation or a completed action}>; 你來了! Nǐ láile! You have come! 我累了! Wǒ lèile! I've gotten tired! 那好了! Nà hǎole! That's OK (now)! 我只請了一位客人. Wǒ zhǐ qǐngle yí wèi kèren. I invited only one guest.<br /><br /><br /><br />[liǎo] end, finish, settle, dispose of, know clearly, to be able, (=了解 liǎojiě) understand, comprehend; 了了 liǎoliaǒ clearly understand, settle (a debt/etc.), to be intelligent; 了了 liǎole {colloquial}> to be over/ended/finnish/settled; 你賣不了! Nǐ mài bùliǎo! You will not be able to sell (it)!<br /><br /><br /><br />[liào] (=瞭 liaò) to survey/watch<br /><br /><br /><br />{Compare with 子 zǐ child}{/colloquial}>
 人|[rén] person; 人類 rénlèi humankind; 有人嗎? yǒu rén ma? Is there anybody here?<br /><br /><br /><br />{Compare with 入 rù enter}
 我|[wǒ] I, me, my; 我們 wǒmen we, us<br /><br /><br /><br />{Compare with 找 zhǎo seek}
 在|[zài] at; 現在 xiànzài now; 存在 cúnzài exist
@@ -14,22 +14,22 @@
 大|[dà] big; 多大? duōdà? how large?; 大小 dàxiǎo size; 大家 dàjiā everybody<br /><br />[dài] 大夫 dàifu doctor<br /><br />{Compare with 太 tài very and 木 mù tree}
 來|[lái] come; 原來 yuánlái originally, as a matter of fact; 來年 láinián coming/next year(s)<br /><br />[lai] (when used as a verb complement); 起來 qǐlai get up
 上|[shàng] above, on, over, top, (go) up, last, previous<br /><br />[shǎng] 上聲 shǎngshēng 3rd tone in Mandarin<br /><br />[shang] (when used as a verb complement)<br /><br />{Compare with 下 xià under}
-國|[guó] (=國家 guójiā) country, state, nation, <family name>; 中國 Zhōngguó China; 美國 Měiguó USA
-個,箇|[gè] <general and non-specific classifier>; 個人 gèrén personal; 個人主頁 gèrénzhùyè personal homepage<br /><br />[gě] 自個 zìgě oneself
+國|[guó] (=國家 guójiā) country, state, nation, {family name}>; 中國 Zhōngguó China; 美國 Měiguó USA
+個,箇|[gè] {general and non-specific classifier}>; 個人 gèrén personal; 個人主頁 gèrénzhùyè personal homepage<br /><br />[gě] 自個 zìgě oneself
 到|[dào] to, towards, until, arrive, reach
 說|[shuō] explain, scold, refer to, (=說話 shuōhuà) speak, say; 遊說 yóushuō persuade<br /><br />[shuì] try to persuade; 遊說 yóushuì lobbying
-們|[men] <pluralizing suffix for pronouns and nouns referring to persons>; 我們 wǒmen we; 人們 rénmen people, persons
+們|[men] {pluralizing suffix for pronouns and nouns referring to persons}>; 我們 wǒmen we; 人們 rénmen people, persons
 為|[wèi] for, for the sake of, in order to, in this connection<br /><br />[wéi] do, act, act as, be, become; 認為 rènwéi think or believe that...; 以為 yǐwéi think or believe erroneously that...<br /><br />{Compare with 辦 bàn do}
-子|[zǐ] child, son; 子女 zǐnǚ sons and daughters; 兒子 érzi son<br /><br />[zi] (noun suffix); 桌子 zhuōzi table<br /><br />{Compare with 了 le <particle>}
-和|[hé] together, with, 龢 harmony, gentle, mild, kind, <family name>; 和平 hépíng peace<br /><br />[Hé] Japan<br /><br />[huo] 暖和 nuǎnhuo nice and warm<br /><br />[hè] join in singing, compose a poem in reply<br /><br />[huó] mix with water<br /><br />[huò] mix, blend<br /><br />[hú] complete a set in Mahjong
+子|[zǐ] child, son; 子女 zǐnǚ sons and daughters; 兒子 érzi son<br /><br />[zi] (noun suffix); 桌子 zhuōzi table<br /><br />{Compare with 了 le {particle}>}
+和|[hé] together, with, 龢 harmony, gentle, mild, kind, {family name}>; 和平 hépíng peace<br /><br />[Hé] Japan<br /><br />[huo] 暖和 nuǎnhuo nice and warm<br /><br />[hè] join in singing, compose a poem in reply<br /><br />[huó] mix with water<br /><br />[huò] mix, blend<br /><br />[hú] complete a set in Mahjong
 你|[nǐ] (Alternative feminine form: 妳 nǐ) you, your; 你們 nǐmen you (plural)
-地|[dì] earth, ground, soil, place, position, distance; 地支 dìzhī the Twelve Terrestrial Branches<br /><br />[de] <adverbial particle: descripion + 地 + verb>, ~ly; 快地走 kuàide zǒu walk quickly
-出|[chū] go out, come out, in direction out from something, emit, issue, prouce; 出現 chūxiàn appear, emerge, 齣 <classifier for operas and plays>
-道|[dào] way, path, channel, way, say, a streak (of light), doctrine, <classifier for rivers, topics, etc.>, (=道教 Dàojiào) Taoism; 知道 zhīdao know<br /><br />[dǎo] (=導 dǎo) lead; 領道 = 領導 lǐngdǎo leader
+地|[dì] earth, ground, soil, place, position, distance; 地支 dìzhī the Twelve Terrestrial Branches<br /><br />[de] {adverbial particle: descripion + 地 + verb}>, ~ly; 快地走 kuàide zǒu walk quickly
+出|[chū] go out, come out, in direction out from something, emit, issue, prouce; 出現 chūxiàn appear, emerge, 齣 {classifier for operas and plays}>
+道|[dào] way, path, channel, way, say, a streak (of light), doctrine, {classifier for rivers, topics, etc.}>, (=道教 Dàojiào) Taoism; 知道 zhīdao know<br /><br />[dǎo] (=導 dǎo) lead; 領道 = 領導 lǐngdǎo leader
 也|[yě] also, as well; 也許 yěxǔ perhaps
 時|[shí] period, season, (=時間 shíjiān, =時候 shíhou) time, (=小時 xiǎoshí) hour
-年|[nián] year, <family name>; 今年 jīnnián this year; 明年 míngnián next year; 去年 qùnián last year; 中年 zhōngnián middle age
-得|[de] <adverbial particle: verb + 得 + descripion>; 走得快 zǒude kuài walk quickly<br /><br />[dé] get, reach, achieve<br /><br />[děi] should
+年|[nián] year, {family name}>; 今年 jīnnián this year; 明年 míngnián next year; 去年 qùnián last year; 中年 zhōngnián middle age
+得|[de] {adverbial particle: verb + 得 + descripion}>; 走得快 zǒude kuài walk quickly<br /><br />[dé] get, reach, achieve<br /><br />[děi] should
 就|[jiù] just, simply, right away; 就要 jiùyào about to (do something); 這就是我! Zhè jiùshì wǒ! This is simply me!; 他就要去. Tā jiùyào qù. He is about to leave.
 那|[nà] that<br /><br />[nèi] that (before classifier)<br /><br />[nuó] 禪那 chánnuó deep meditation<br /><br />[nuò] 無那 wúnuò helpless, unfortunately<br /><br />[nǎ] (=哪 nǎ) what?<br /><br />[něi] (=哪 něi before classifier) which?
 要|[yào] want, will, shall, need, important, essential; 主要 zhǔyào main, fundamental<br /><br />[yāo] 要求 yāoqiú demand
@@ -38,17 +38,17 @@
 生|[shēng] give birth, life; 先生 xiānsheng mister, gentleman, Sir
 會|[huì] can, able, meet, meeting, society, union, party<br /><br />[kuài] 會計 kuàijì accounting<br /><br />[huǐ] 會兒 huìr moment
 自|[zì] from, since, (=自己 zìjǐ) self; 自然 zìrán nature<br /><br />{Compare with 目 mù eye and 白 bái white}
-著|[zhe] <verb particle marking a continuing progress/state><br /><br />[zháo] touch<br /><br />[zhuó] wear clothes, dress, touch<br /><br />[zhāo] put in, add, 招 make move in chess, trick, decieve
+著|[zhe] {verb particle marking a continuing progress/state}><br /><br />[zháo] touch<br /><br />[zhuó] wear clothes, dress, touch<br /><br />[zhāo] put in, add, 招 make move in chess, trick, decieve
 去|[qù] go, leave, depart (opposite of 來 lái)
-之|[zhī] <subordinator similar to 的 de>, it (in classical texts)
-過|[guò] pass, cross, go by, exceed, <verb particle marking that someone has had the experience of doing something, that it has happened at least once>; 過馬路 guò mǎlù cross the street; 我去過中國兩次. wǒ qùguo Zhōngguó liǎng cì. I have gone to China twice.
+之|[zhī] {subordinator similar to 的 de}>, it (in classical texts)
+過|[guò] pass, cross, go by, exceed, {verb particle marking that someone has had the experience of doing something, that it has happened at least once}>; 過馬路 guò mǎlù cross the street; 我去過中國兩次. wǒ qùguo Zhōngguó liǎng cì. I have gone to China twice.
 家|[jiā] home, house, family; 國家 guójiā nation; 大家 dàjiā everybody<br /><br />[jie] 整天家 zhěngtiānjie all day long; 家裏 jiālǐ (at) home, (in the) family
 學|[xué] study, learn; 學校 xuéxiào school; 學生 xuésheng student<br /><br />{Compare with 字 zì written character}
 對|[duì] correct, answer, treat, agree, mutual, pair; 對不起 duìbuqǐ excuse me
 可|[kě] ~able, (=可以 kěyǐ) may, can, (=可是 kěshì) but, however; 可愛 kě'ài loveable, cute; 可能 kě'néng possible, probable, maybe; 可口可樂 kěkǒukělè Coca Cola<br /><br />[kè] 可汗 kèhán khan
 她|[tā] she, her
-里|[lǐ] neighbourhood, half kilometer, <family name>, 裏,裡 in, inside, lining; 哪裏? nǎli? where?; 那裏 nàli there; 這裏 zhèli here
-后|[hòu] queen, 後 after, behind, <family name>; 後天 hòutiān the day after tomorrow
+里|[lǐ] neighbourhood, half kilometer, {family name}>, 裏,裡 in, inside, lining; 哪裏? nǎli? where?; 那裏 nàli there; 這裏 zhèli here
+后|[hòu] queen, 後 after, behind, {family name}>; 後天 hòutiān the day after tomorrow
 小|[xiǎo] small; 大小 dàxiǎo size
 么|[me/mo] 麼,末 (interrogative suffix) 什麽? shénme? what?; 為什麽? wèishénme? why? 沒什麽! méi shénme! It doesn't matter!, Never mind!; 怎麽? zěnme? how?<br /><br />[yāo] (S幺) youngest, one (e.g. in bus/house/phone numbers)
 心|[xīn] heart; 小心 xiǎoxīn be careful; 心理 xīnlǐ psychology, mentality; 中心 zhōngxīn center
@@ -61,19 +61,19 @@
 然|[rán] right, correct, so, like that; 雖然 suīrán although; 忽然 hūrán suddenly; 當然 dāngrán of course; 自然 zìrán nature
 沒|[méi] (=沒有 méiyǒu) haven't, there isn't; 有沒有? Yǒuméiyǒu? Is there or isn't there? Have (you) or haven't (you)?<br /><br />[mò] sink, overflow, disappear, confiscate
 日|[rì] sun, (=日子 rìzi) day; 日記 rìjì diary; 日光 rìguāng sunlight<br /><br />{Compare with 曰 yuē say, 目 mù eye and 甘 gān sweet}
-于|[yú] <family name>, 於 in, at, for, to, from, by, than<br /><br />{Compare with 千 qiān thousand and 幹 gān stem}
+于|[yú] {family name}>, 於 in, at, for, to, from, by, than<br /><br />{Compare with 千 qiān thousand and 幹 gān stem}
 起|[qǐ] rise, start; 起來 qǐlai get up; 對不起 duìbuqǐ excuse me<br /><br />[qi] (when used as a verb complement)
 還|[hái] still, yet<br /><br />[huán] return, give back
 发|[fā] 發 deliver, utter, express, shoot, emit, develop, expand<br /><br />[fà] 發 hair<br /><br />[fa] 發 頭發 tóufa hair
-成|[chéng] (=成為 chéngwéi, =變成 biànchéng) become, <family name>; 成功 chénggōng succeed; 完成 wánchéng accomplish, complete, fulfill; 成語 chéngyǔ idiom
+成|[chéng] (=成為 chéngwéi, =變成 biànchéng) become, {family name}>; 成功 chénggōng succeed; 完成 wánchéng accomplish, complete, fulfill; 成語 chéngyǔ idiom
 事|[shì] matter, affair, thing, event, accident, job, responsibility; 事情 shìqing situation
-祇|[zhǐ] only, just, merely, <classifier implying "one of a pair", animals, vessels, utensils, etc.>; 一只貓 yì zhǐ māo a cat<br /><br />[zhī] 隻 single, one, only<br /><br />{Compare with 兄 xiōng brother}
+祇|[zhǐ] only, just, merely, {classifier implying "one of a pair", animals, vessels, utensils, etc.}>; 一只貓 yì zhǐ māo a cat<br /><br />[zhī] 隻 single, one, only<br /><br />{Compare with 兄 xiōng brother}
 作|[zuò] do, make; 工作 gōngzuò work; 作業 zuòyè homework<br /><br />[zuó] 作踐 zuójian spoil, waste, humiliate, insult<br /><br />[zuō] do
 当|[dāng] 當 serve as, 當 ding-dong<br /><br />[dàng] 當 proper, right, equal, (=當作 dàngzuò) treat as, regard as
 想|[xiǎng] think, feel, consider, want, remember
 看|[kàn] see, look at, read, think, consider<br /><br />[kān] look after, tend; 看守 kānshǒu guard
-文|[wén] language, literature, <family name>; 文化 wénhuà culture; 中文 Zhōngwén Chinese (written) language
-無|[wú] without, nothingness, have not<br /><br />[mó] 南無 nánmó <Sanskrit> to give oneself totally to<br /><br />{Compare with 天 tiān heaven}
+文|[wén] language, literature, {family name}>; 文化 wénhuà culture; 中文 Zhōngwén Chinese (written) language
+無|[wú] without, nothingness, have not<br /><br />[mó] 南無 nánmó {Sanskrit}> to give oneself totally to<br /><br />{Compare with 天 tiān heaven}
 開|[kāi] open; 開始 kāishǐ begin 打開 dǎkāi open, unfold<br /><br />[kai] (when used as a verb complement)<br /><br />{Compare with 並 bìng combine}
 手|[shǒu] hand, a person skilled in something; 揮手 huīshǒu wave; 拍手 pāishǒu clap; 握手 wòshǒu shake/clasp hands<br /><br />{Compare with 毛 máo hair}
 十(A拾)|[shí] ten; 十三 shísān thirteen; 五十 wǔshí fifty; 十月 shíyuè October
@@ -85,11 +85,11 @@
 如|[rú] like, as, as if, (=如果 rúguǒ) if; 如此 rúcǐ like this
 前|[qián] in front, previous, ago, former, first; 前天 the day before yesterday
 所|[suǒ] place; 所以 suǒyǐ so, therefore; 所有 suǒyǒu all; 廁所 cèsuǒ toilet
-本|[běn] basis, origin, edition, <classifier for books, periodicals, files, etc.>; 本人 běnrén I, me, myself; 日本 Rìběn Japan<br /><br />{Compare with 木 mù tree}
+本|[běn] basis, origin, edition, {classifier for books, periodicals, files, etc.}>; 本人 běnrén I, me, myself; 日本 Rìběn Japan<br /><br />{Compare with 木 mù tree}
 見|[jiàn] appear to be, meet with, call on, (=看見 kànjian) see; 意見 yìjian idea, view, opinion; 聽見 tīngjiàn hear<br /><br />[xiàn] show, appear, become visible<br /><br />{Compare with 貝 bèi shellfish}
-經|[jīng] longitude (both geographic and in Chinese medecin), scripture, constant, regular, <family name>, deal with, (=經紀 jīngjì) manage (a business); 已經 yǐjing already; 經過 jīngguò pass, go through; 經驗 jīngyàn experience; 經由 jīngyóu via, by way of; 經常 jīngcháng frequent, daily; 易經 Yìjīng Book of Changes;
-頭|[tóu] head, top, first, <classifier for livestock, garlic, etc.>; 頭發 tóufa hair<br /><br />[tou] 石頭 shítou stone
-面|[miàn] face, surface, <classifier for mirrors, flags, etc.>, 麵 wheat flour, (=面條 miàntiáo) noodle; 面包 miànbāo bread
+經|[jīng] longitude (both geographic and in Chinese medecin), scripture, constant, regular, {family name}>, deal with, (=經紀 jīngjì) manage (a business); 已經 yǐjing already; 經過 jīngguò pass, go through; 經驗 jīngyàn experience; 經由 jīngyóu via, by way of; 經常 jīngcháng frequent, daily; 易經 Yìjīng Book of Changes;
+頭|[tóu] head, top, first, {classifier for livestock, garlic, etc.}>; 頭發 tóufa hair<br /><br />[tou] 石頭 shítou stone
+面|[miàn] face, surface, {classifier for mirrors, flags, etc.}>, 麵 wheat flour, (=面條 miàntiáo) noodle; 面包 miànbāo bread
 公|[gōng] public, official; 公裏 gōnglǐ kilometer; 辦公室 bàngōngshì office; 公司 gōngsī company; 公共 gōnggòng public, communal, common; 公共汽車 gōnggòngqìchē (public) bus; 李公 Lǐgōng (honorable and old) Mr Li
 同|[tóng] same, with; 同誌 tóngzhì comrade<br /><br />[tòng] 衕 胡同 hútòng lane
 三(A叁)|[sān] three; 第三世界 dì-sān shìjiè 3rd World; 三月 sānyuè March
@@ -100,61 +100,61 @@
 兩|[liǎng] two (before classifier), 50 grams
 長|[cháng] long, lasting, length<br /><br />[zhǎng] grow up, chief, head, older, elder
 知|[zhī] realize, sense, inform, tell, (=知道 zhīdao) know; 知識 zhīshi knowledge<br /><br />[zhì] (=智 zhì) wit, (=智慧 zhìhuì) wisdom, (=智力 zhìlì) intellect
-民|[mín] (=人民 rénmín) people, <family name>; 民主 mǐnzhǔ democracy
+民|[mín] (=人民 rénmín) people, {family name}>; 民主 mǐnzhǔ democracy
 樣|[yàng] appearance, shape, form, manner; 這樣 zhèyàng like this; 怎麽樣 zěnmeyàng how? in what way?
 現|[xiàn] show, appear, current; 現在 xiànzài now; 發現 fāxiàn discover; 現代 xiàndài modern
 分|[fēn] divide, fraction, minute, cent; 百分之五 bǎifēnzhīwǔ = 5/100 = 5%<br /><br />[fèn] limits of rights or duty
 將|[jiāng] shall; 將來 jiānglái future<br /><br />[jiàng] general, a piece in Chinese chess 麻將 májiàng mahjongg
 外|[wài] outside, outer, other, foreign, beyond, relative on ones mother's/sisters/wife's side; 外孫 wàisūn daugthers son; 外國人 wàiguórén foreigner; 意外 yìwài unexpected<br /><br />{Compare with 處 chù place}
 但|[dàn] (=但是 dànshì) but, still, nevertheless, however, yet
-身|[shēn] life, incarnation, <classifier for suits of clothing>, (=身體 shēntǐ) body; 親身 qīnshēn in person, personally
-些|[xiē] some, <classifier for plural or indefinite/small amount>; 一些 yìxiē a number of, some; 這些人 zhèxiē rén these people
-與|[yǔ] give, offer, help, support, and<br /><br />[yù] 參與 cānyù participate in<br /><br />[yú] 歟 <interrogative/esclamative particle><br /><br />{Compare with 寫 xiě write}
-高|[gāo] high, tall, loud, <polite> your, <family name>; 提高 tígāo improve; 高興 gāoxìng happy; 高見 gāojiàn <polite> your opinion/idea
+身|[shēn] life, incarnation, {classifier for suits of clothing}>, (=身體 shēntǐ) body; 親身 qīnshēn in person, personally
+些|[xiē] some, {classifier for plural or indefinite/small amount}>; 一些 yìxiē a number of, some; 這些人 zhèxiē rén these people
+與|[yǔ] give, offer, help, support, and<br /><br />[yù] 參與 cānyù participate in<br /><br />[yú] 歟 {interrogative/esclamative particle}><br /><br />{Compare with 寫 xiě write}
+高|[gāo] high, tall, loud, {polite}> your, {family name}>; 提高 tígāo improve; 高興 gāoxìng happy; 高見 gāojiàn {polite}> your opinion/idea
 意|[yì] (=意思 yìsi, =意義 yìyì) meaning, idea, (=願意 yuànyi) wish, desire; 意圖 yìtú intention; 意見 yìjian opinion; 意大利 Yìdàlì Italy
 進|[jìn] enter, go forward, recieve, drink, eat, submit; 進步 jìnbù progress
-把|[bǎ] grasp, hold, handle, <classifier for things with handles, handfuls, chairs, etc.><br /><br />[bà] 把子 bàzi, 把兒 bàr handle
+把|[bǎ] grasp, hold, handle, {classifier for things with handles, handfuls, chairs, etc.}><br /><br />[bà] 把子 bàzi, 把兒 bàr handle
 法|[fǎ] (=法律 fǎlǜ) law, (=辦法 bànfǎ) method; 法國 Fǎguó France
 此|[cǐ] this; 如此 rúcǐ (=這樣 zhèyàng) like this; 此地 cǐdì (=這裏 zhèlǐ) here, at this place
 實|[shí] solid, true, real; 事實 shìshí fact; 實際上 shíjìshang actually; 實在 shízài really
-回|[huí] circle, return, reply, turns, times, chapter, Muslim, Hui (ethnic minority), <classifier for chapters, times, etc.>; 回來 huílái come back; 回去 huíqù go back; 回答 huídá answer
+回|[huí] circle, return, reply, turns, times, chapter, Muslim, Hui (ethnic minority), {classifier for chapters, times, etc.}>; 回來 huílái come back; 回去 huíqù go back; 回答 huídá answer
 二(A贰)|[èr] two; 二月 èryuè February
 理|[lǐ] principle; 理論 lǐlùn theory; 管理 guǎnlǐ manage; 心理 xīnlǐ psychology, mentality
-美|[měi] (=美麗 meilì) beautiful, (=好 hǎo) good, (=美德 měidé) virtue, <family name>; 美國 Měiguó USA; 美元 měiyuán US$ 美家 měijiā artist
-點|[diǎn] a drop (of liquid), dot, decimal point, a little, a bit, appoint time, select, choose, order food/drink, <classifier for small amounts>, (=點火 diǎnhuǒ) light a fire; 一點兒 yìdiǎnr a little; 點頭 diǎntóu nod one's head
+美|[měi] (=美麗 meilì) beautiful, (=好 hǎo) good, (=美德 měidé) virtue, {family name}>; 美國 Měiguó USA; 美元 měiyuán US$ 美家 měijiā artist
+點|[diǎn] a drop (of liquid), dot, decimal point, a little, a bit, appoint time, select, choose, order food/drink, {classifier for small amounts}>, (=點火 diǎnhuǒ) light a fire; 一點兒 yìdiǎnr a little; 點頭 diǎntóu nod one's head
 月|[yuè] month, (=月亮 yuèliang, =月球 yuèqiú) moon
-明|[míng] bright, clear, distinct, next (day or year), <family name>; 明白 míngbai clear, understand; 明天 míngtiān tomorrow
+明|[míng] bright, clear, distinct, next (day or year), {family name}>; 明白 míngbai clear, understand; 明天 míngtiān tomorrow
 其|[qí] its, that, such, they, them; 其他 qítā other; 尤其 yóuqí especially<br /><br />[jī] anniversary
 種|[zhǒng] kind, sort, breed, race<br /><br />[zhòng] to plant, cultivate
-聲|[shēng] voice, declaration, (=聲音 shēngyīn) sound, <classifier for sounds>; 聲名 shēngmíng reputation, fame, statement, declaration
-全|[quán] whole, entire, total, complete, <family name>; 完全 wánquán completely; 安全 ānquán safety
+聲|[shēng] voice, declaration, (=聲音 shēngyīn) sound, {classifier for sounds}>; 聲名 shēngmíng reputation, fame, statement, declaration
+全|[quán] whole, entire, total, complete, {family name}>; 完全 wánquán completely; 安全 ānquán safety
 工|[gōng] (=工作 gōngzuò) work, job; 工人 gōngrén worker
 己|[jǐ] (=自己 zìjǐ) self<br /><br />{Compare with 已 yǐ already, which is "closed" on the left side}
 話|[huà] speech, word, language, dialect, (=說話 shuōhuà) talk, speak<br /><br />[huo] 白話 báihuo = báihuà vernacular, empty talk
 兒|[ér] child; 兒子 érzi son; 女兒 nǚ'ér daughter<br /><br />[r] (noun suffix); 這兒 zhèr here; 那兒 nàr there<br /><br />[rén] (when referring to the radical)<br /><br />{Compare with 兄 xiōng brother, 幾 jǐ table, 臾 yú moment}
 者|[zhě] one who...; 作者 zuòzhě author; 和平主義者 hépíngzhǔyìzhě pacifist
-向|[xiàng] take somebody's part, to, towards, all along, allways, <family name>, 嚮 direction, towards, 嚮 formerly, previously; 向者 xiàngzhě formerly, once upon a time
+向|[xiàng] take somebody's part, to, towards, all along, allways, {family name}>, 嚮 direction, towards, 嚮 formerly, previously; 向者 xiàngzhě formerly, once upon a time
 情|[qíng] sensibility, (=感情 gǎnqíng) feeling, emotion; 愛情 àiqíng love
-部|[bù] (=部分 bùfen) part, section, unit, <classifier for film, large books, machines, etc.>, (=部隊 bùduì) troops, army; 西部 xībù western part; 全部 quánbù entire
+部|[bù] (=部分 bùfen) part, section, unit, {classifier for film, large books, machines, etc.}>, (=部隊 bùduì) troops, army; 西部 xībù western part; 全部 quánbù entire
 正|[zhèng] right, straight, upright, correct<br /><br />[zhēng] 正月 zhēngyuè, 新正 xīnzhēng the 1st month of lunar year
-名|[míng] (=名字 míngzi) name, personal name, reputation, famous, <classifier for persons with professional or prominent social identities, e.g. students, doctors, soldiers, workers>; 著名 zhùmíng famous; 名詞 míngcí noun
+名|[míng] (=名字 míngzi) name, personal name, reputation, famous, {classifier for persons with professional or prominent social identities, e.g. students, doctors, soldiers, workers}>; 著名 zhùmíng famous; 名詞 míngcí noun
 定|[dìng] fix, settle, calm, stable, subscribe, (=決定 juédìng) decide; 一定 yídìng definite
 女|[nǚ] female, (=女人 nǚrén, =婦女 fùnǚ) woman
 問|[wèn] ask, examine; 問題 wèntí question, problem; 訪問 fǎngwèn visit
-力|[lì] (=活力 nénglì) energy, vitality, <family name>, (=力量 lìliang) strength, force
+力|[lì] (=活力 nénglì) energy, vitality, {family name}>, (=力量 lìliang) strength, force
 機|[jī] (=機器 jīqi) machine; 收音機 shōuyīnjī radio; 飛機 fēijī aircraft
 給|[gěi] give, give to, for, for the benefit of; 送給 sònggěi send/present to<br /><br />[jǐ] give, supply, provide, (=供給 gōngjǐ) provide
 等|[děng] equal, class, wait, and so on, etc.
 几|[jī] small table, 幾 幾乎 jīhū almost<br /><br />[jǐ] 幾 how many?, a few, (used in numerals)<br /><br />{Compare with 兒 ér child}
 很|[hěn] very, quite; 很好 hěnhǎo very good; 很不錯! hěn búcuò! not bad at all!
-業|[yè] line of business, trade, occupation, profession, course of study, engage in, <family name>; 商業 shāngyè commerce; 工業 gōngyè industry; 作業 zuòyè homework
+業|[yè] line of business, trade, occupation, profession, course of study, engage in, {family name}>; 商業 shāngyè commerce; 工業 gōngyè industry; 作業 zuòyè homework
 最|[zuì] most, marking for superlative; 最近 zuìjìn recently/soon; 最喜歡 zuì xǐhuan favorite
-間|[jiān] room, between, locality, within given time or space, <classifier for rooms><br /><br />[jiàn] gap, interval<br /><br />[gān] 半間不界 bàn'gānbùgà neither this nor that, inexplicit, equivocal, mediocre
+間|[jiān] room, between, locality, within given time or space, {classifier for rooms}><br /><br />[jiàn] gap, interval<br /><br />[gān] 半間不界 bàn'gānbùgà neither this nor that, inexplicit, equivocal, mediocre
 新|[xīn] new, renew; 重新 chóngxīn again; 新聞 xīnwén news
 甚|[shén] 什麽 shénme what?<br /><br />[shí] (=十 shí) ten
 打|[dǎ] strike, hit, get, play, (generalized verb with specific meaning determined by its object); 打算 dǎsuan plan, intend; 打開 dǎkāi open, unfold; 打擊 dǎjī strike, hitt, attack, assault<br /><br />[dá] dozen
 便|[biàn] (=方便 fāngbiàn) convenient<br /><br />[pián] 便宜 piányi cheap<br /><br />{Compare with 使 shǐ send and 更 gèng more}
-位|[wèi] place, location, position, <polite classifier for people>
+位|[wèi] place, location, position, {polite classifier for people}>
 因|[yīn] cause, (=因為 yīnwèi) because, (=原因 yuányīn) reason
 重|[zhòng] weight, considerable in amount/value, (=沈重 chénzhòng) heavy, weighty, (=重要 zhòngyào) important<br /><br />[chóng] again
 被|[bèi] quilt, cover (with), by (indicates passive voice)<br /><br />[pī] 被服 pīfú = bèifú bedding and clothing, something one hangs on to
@@ -162,13 +162,13 @@
 電|[diàn] (=閃電 shǎndiàn) (flash of) lightning, (=電氣 diànqì) electricity; 電話 diànhuà phone; 電腦 diànnǎo computer
 四(A肆)|[sì] four; 四周 sìzhōu all around; 四月 sìyuè April
 第|[dì] indicating ordinal number, ~th; 第三世界 dì-sān shìjiè 3rd World; 第一次 dì-yī cì 1st time
-門|[mén] door, gate, family, house, valve, switch, <family name>, <classifier for courses, braches of science, etc.>; 門口 ménkǒu doorway; 部門 bùmén department; 門鈴 ménlíng doorbell
-相|[xiāng] each other, mutual, mode, phase, <family name><br /><br />[xiàng] look at, appearance, photo
+門|[mén] door, gate, family, house, valve, switch, {family name}>, {classifier for courses, braches of science, etc.}>; 門口 ménkǒu doorway; 部門 bùmén department; 門鈴 ménlíng doorbell
+相|[xiāng] each other, mutual, mode, phase, {family name}><br /><br />[xiàng] look at, appearance, photo
 次|[cì] occurence, time, second, inferior, number of times; 兩次 liǎng cì twice
-東|[dōng] master, owner, <family name> (=東方 dōngfāng) east; 東北 dōngběi northeast; 東西 dōngxi thing, creature<br /><br />{Compare with 車 chē vehicle}
+東|[dōng] master, owner, {family name}> (=東方 dōngfāng) east; 東北 dōngběi northeast; 東西 dōngxi thing, creature<br /><br />{Compare with 車 chē vehicle}
 政|[zhèng] (=政治 zhèngzhì) politics, political affairs, (=政府 zhèngfǔ) government
-海|[hǎi] sea, big lake, <family name>, (=海洋 hǎiyáng, =大海 dàhǎi) sea, ocean
-口|[kǒu] mouth, opening, entrance, hole, cut, <classifier for mouthfuls, people, wells, etc.>; 門口 ménkǒu doorway; 人口 rénkǒu population
+海|[hǎi] sea, big lake, {family name}>, (=海洋 hǎiyáng, =大海 dàhǎi) sea, ocean
+口|[kǒu] mouth, opening, entrance, hole, cut, {classifier for mouthfuls, people, wells, etc.}>; 門口 ménkǒu doorway; 人口 rénkǒu population
 使|[shǐ] make, cause to (do), send (as envoy), (=使用 shǐyòng) use, apply<br /><br />{Compare with 吏 lì and 便 biàn official}
 教|[jiāo] teach; 王老師教數學. Wáng lǎoshī jiāo shùxué. Teacher Wang teaches math.<br /><br />[jiào] cause, ask to, teach; 教師 jiàoshī teacher, instructor; 教育 jiàoyù education
 西|[xī] west, western; 東西 dōngxi thing; 西北 xīběi northwest
@@ -176,7 +176,7 @@
 平|[píng] flat, level, even; 水平 shuǐpíng level; 和平 hépíng peace; 平常 píngcháng ordinary, common, usually<br /><br />{Compare with 半 bàn half}
 真|[zhēn] true, genuine, really<br /><br />{There are two ways of writing this character!}
 聽|[tīng] listen; 聽見 tīngjiàn hear; 聽不懂 tīngbudǒng don't understand (by listening)
-世|[shì] generation, <family name>, (=世界 shìjiè) world; 世紀 shìjì century
+世|[shì] generation, {family name}>, (=世界 shìjiè) world; 世紀 shìjì century
 氣|[qì] air, gas, vapor, spirit, vital energy; 天氣 tiānqi weather
 信|[xìn] letter, message, information, (=相信 xiāngxìn) belive in; 信封 xìnfēng envelope
 北|[běi] north; 東北 dōngběi northeast; 北京 Běijīng
@@ -188,24 +188,24 @@
 化|[huà] convert, melt, dissolve, digest, incinerate, (=變化 biànhuà) change, transform<br /><br />[huā] (=花 huā) spend
 由|[yóu] from, let, (=由於 yóuyú) due to, (=理由 lǐyóu) cause, reason; 自由 zìyóu freedom<br /><br />{Compare with 甲 jiǎ helmet and 申 shēn explain}
 卻|[què] however, but, yet
-代|[dài] (=代表 dàibiǎo) represent, (=時代 shídài) generation, period, epoch, <classifier for periods>; 現代 xiàndài modern (times); 上代 shàngdài previous generation
+代|[dài] (=代表 dàibiǎo) represent, (=時代 shídài) generation, period, epoch, {classifier for periods}>; 現代 xiàndài modern (times); 上代 shàngdài previous generation
 軍|[jūn] army, military, troops
 產|[chǎn] give birth to, (=產生 chǎnshēng) produce, (=產品 chǎnpǐn) product
 入|[rù] (=進入 jìnrù) enter, get into; 收入 shōurù income<br /><br />{Compare with 人 rén person}
 先|[xiān] first, before, earlier; 先生 xiānsheng mister, gentleman, Sir; 祖先 zǔxiān = 先輩 xiānbèi ancestor<br /><br />{Compare with 失 shī lose}
-山|[shān] hill, mountain, <family name>; 火山 huǒshān volcano; 山脈 shānmài mountain range
+山|[shān] hill, mountain, {family name}>; 火山 huǒshān volcano; 山脈 shānmài mountain range
 五(A伍)|[wǔ] five; 五月 wǔyuè May
 太|[tài] great, very, too; 太太 tàitai Madame; 太陽 tàiyáng sun, sunshine<br /><br />{Compare with 大 dà big}
-水|[shuǐ] water, liquid, <family name>; 水平 shuǐpíng level; 水果 shuǐguǒ fruit; 藥水 yàoshuǐ liquid medecine<br /><br />{Compare with 永 yǒng forever}
-萬|[wàn] ten thousand, myriad, <family name>; 萬歲 wànsuì long live<br /><br />[Mò] 萬俟 Mòqí <family name><br /><br />{Compare with 方 fāng square}
+水|[shuǐ] water, liquid, {family name}>; 水平 shuǐpíng level; 水果 shuǐguǒ fruit; 藥水 yàoshuǐ liquid medecine<br /><br />{Compare with 永 yǒng forever}
+萬|[wàn] ten thousand, myriad, {family name}>; 萬歲 wànsuì long live<br /><br />[Mò] 萬俟 Mòqí {family name}><br /><br />{Compare with 方 fāng square}
 市|[shì] (=市場 shìchǎng) market, (=城市 chéngshì) city, town
 眼|[yǎn] (=眼睛 yǎnjing) eye; 眼鏡 yǎnjìng glasses
 體|[tǐ] substance, (=身體 shēntǐ) body; 具體 jùtǐ concrete, specific; 體字 tǐzì style of written Chinese, typface, font<br /><br />[tī] 體己 tīji (or tǐjǐ) intimate, confidential
-別,彆|[bié] separate, other, don't, leave, differentiate, <family name><br /><br />[biè] 別扭 bièniu awkward
+別,彆|[bié] separate, other, don't, leave, differentiate, {family name}><br /><br />[biè] 別扭 bièniu awkward
 處|[chù] place, part, point, department, office<br /><br />[chǔ] deal with, get along with somebody<br /><br />{Compare with 外 wài outside}
 總|[zǒng] general, overall, always, (=總數 zǒngshù) sum, total; 總統 zǒngtǒng president (of a republic)
 纔|[cái] talent, only then; 剛才 gāngcái just now
-場|[chǎng] field, place where people gather, stage, level open ground, country fair, market, <classifier for games, performances etc.><br /><br />[cháng] <classifier for happenings>
+場|[chǎng] field, place where people gather, stage, level open ground, country fair, market, {classifier for games, performances etc.}><br /><br />[cháng] {classifier for happenings}>
 師|[shī] (=老師 lǎoshī) teacher; 師傅 shīfu master
 書|[shū] book, style of calligraphy; 書記 shūji clerk; 圖書館 túshūguǎn library
 比|[bǐ] compare, contrast; 比較 bǐjiào relatively; 比如 bǐrú efor example
@@ -214,38 +214,38 @@
 九(A玖)|[jiǔ] nine; 九月 jiǔyuè September
 笑|[xiào] laugh
 性|[xìng] sex, gender, nature, disposission, ~ness; 可能性 kěnéngxìng possibility
-通|[tōng] communicate, notify, connect, join, know very well, authority, expert, (=通過 tōngguò) go through, <classifier for telegrams>, <family name>; 交通 jiāotōng traffic; 普通話 Pǔtōnghù Common Speach = Mandarin<br /><br />[tòng] <classifier for actions>
+通|[tōng] communicate, notify, connect, join, know very well, authority, expert, (=通過 tōngguò) go through, {classifier for telegrams}>, {family name}>; 交通 jiāotōng traffic; 普通話 Pǔtōnghù Common Speach = Mandarin<br /><br />[tòng] {classifier for actions}>
 目|[mù] eye; 目前 mùqián in front of ones eyes, at present; 目的 mùdì goal, purpose, aim; 目錄 mùlù catalogue, list, list of contents<br /><br />{Compare with 自 zì self and 日 rì sun}
-華|[huá] glory, splendor, magnificent, (=中華 Zhōnghuá) China<br /><br />[Huà] <family name>; 華山 Huà Shān (mountain in Shaanxi)
+華|[huá] glory, splendor, magnificent, (=中華 Zhōnghuá) China<br /><br />[Huà] {family name}>; 華山 Huà Shān (mountain in Shaanxi)
 報|[bào] (=報告 bàogào) report, (=報紙 bàozhǐ) newspaper, (=電報 diànbào) telegram
 立|[lì] stand, erect, vertical; 建立 jiànlì establish; 立刻 lìkè right away; 立方體 lìfāngtǐ cube
 馬|[mǎ] horse; 馬上 mǎshàng right away 馬馬虎虎 mǎmahūhū careless, casual<br /><br />{Compare with 烏 wū crow}
 命|[mìng] (=生命 shēngmìng) life, fate, destiny; 命令 mìnglìng command; 革命 gémìng revolution
-張|[zhāng] spread, sheet of paper, <classifier for surfaces, tables, postcards, etc.>; 緊張 jǐnzhāng tense, nervous
+張|[zhāng] spread, sheet of paper, {classifier for surfaces, tables, postcards, etc.}>; 緊張 jǐnzhāng tense, nervous
 活|[huó] live, alive, living, vivid, save someone's life; 生活 shēnghuó life; 活動 huódòng activity
 難|[nán] difficult<br /><br />[nàn] disaster
 神|[shén] spirit, god; 精神 jīngshén spirit, mind, consciousness, essence
 數|[shù] number, number, figure, fate, plan; 數學 shùxué math<br /><br />[shǔ] count, enumerate, list<br /><br />[shuò] frequently, repeatedly
-件|[jiàn] item, correspondence, document, <classifier for articles and items>; 條件 tiáojiàn term, condition
+件|[jiàn] item, correspondence, document, {classifier for articles and items}>; 條件 tiáojiàn term, condition
 安|[ān] still, quiet; 安全 ānquán safe, secure; 安排 ānpái arrange, plan, fix up
 表|[biǎo] show, list, table, form, meter, 錶 (wrist-)watch
-原|[yuán] originally, simple, <family name>; 原來 yuánlái original, formerly, as a matter of fact; 原因 yuányīn cause, reason
-車|[chē] car, vehicle with wheels, <family name><br /><br />[jū] (a piece in Chinese chess)<br /><br />{Compare with 東 dōng east}
+原|[yuán] originally, simple, {family name}>; 原來 yuánlái original, formerly, as a matter of fact; 原因 yuányīn cause, reason
+車|[chē] car, vehicle with wheels, {family name}><br /><br />[jū] (a piece in Chinese chess)<br /><br />{Compare with 東 dōng east}
 白|[bái] white; 明白 míngbai understand, realize, clear, obvious; 白天 báitiān daytime; 白菜 báicài cabbage<br /><br />[bó] 李白 Lǐ Bó = Lǐ Bái<br /><br />{Compare with 自 zì self and 百 bǎi hundred}
-應|[yīng] promise, answer, respond, <family name>, (=應該 yīnggāi) should, ought to<br /><br />[yìng] 應用 yìngyòng apply
-路|[lù] path, way, journey, distance, means, sequence, logic, sort, grade, class, <family name>, (=道路 dàolù) road
-期|[qī] phase, stage, <classifier for issues of periodicals>, (=時期 shíqī) time period; 班期 bānqī schedule, time table; 星期 xīngqī week; 長期 chángqī long term<br /><br />[jī] anniversary
+應|[yīng] promise, answer, respond, {family name}>, (=應該 yīnggāi) should, ought to<br /><br />[yìng] 應用 yìngyòng apply
+路|[lù] path, way, journey, distance, means, sequence, logic, sort, grade, class, {family name}>, (=道路 dàolù) road
+期|[qī] phase, stage, {classifier for issues of periodicals}>, (=時期 shíqī) time period; 班期 bānqī schedule, time table; 星期 xīngqī week; 長期 chángqī long term<br /><br />[jī] anniversary
 叫|[jiào] cry out, call; 叫做 jiàozuò be called, be known as
 死|[sǐ] die, death
-常|[cháng] often, constant, ordinary, <family name>; 非常 fēicháng extremely
+常|[cháng] often, constant, ordinary, {family name}>; 非常 fēicháng extremely
 提|[tí] lift, raise, pick up, carry; 提高 tígāo improve; 提供 tígōng provide<br /><br />[dī] 提防 dīfang take precautions or be on guard against
 感|[gǎn] (=感覺 gǎnjué) feel, (=感情 gǎnqíng) emotion
 金|[jīn] (=金子 jīnzi) gold, (=金屬 jīnshǔ) metals in general
-何|[hé] what?, where?, how?, <family name>; 任何 rènhé any; 如何 rúhé how?; 幾何 jǐhé geometry
+何|[hé] what?, where?, how?, {family name}>; 任何 rènhé any; 如何 rúhé how?; 幾何 jǐhé geometry
 更|[gèng] more, still/even more, furthermore<br /><br />[gēng] replace, transform, night watch; (=更改 gēnggǎi) change, alter<br /><br />{Compare with 吏 lì official and 便 biàn convenient}
 反|[fǎn] turn over, return, revolt, (=反對 fǎnduì) oppose, combat; 反映 fǎnyìng reflect<br /><br />[bǎn] 反反 bǎnbǎn proper, fitting<br /><br />{Compare with 友 yǒu friend}
-合|[hé] close, shut, accord with, conform to, be equal to, together, jointly, <classifier for rounds>, (=結合 jiéhé) combine; 合作 hézuò cooperate<br /><br />[gě] decilitre
+合|[hé] close, shut, accord with, conform to, be equal to, together, jointly, {classifier for rounds}>, (=結合 jiéhé) combine; 合作 hézuò cooperate<br /><br />[gě] decilitre
 放|[fàng] put, release, set free, give out, expand, blossom, bloom, lend (money) at interest; 解放 jiěfàng liberate, emancipate
-做|[zuò] do, act, make, produce, write, compose, <slang> to have sex; 叫做 jiàozuò be called, be known as; 做法 zuòfǎ method, way of doing<br /><br />{Sometimes replaceable with 作 zuò do}
+做|[zuò] do, act, make, produce, write, compose, {slang}> to have sex; 叫做 jiàozuò be called, be known as; 做法 zuòfǎ method, way of doing<br /><br />{Sometimes replaceable with 作 zuò do}
 系|[xì] series, department, faculty, (=系統 xìtǒng) system, 係 (=聯系 liánxì) integrate, relate to; 關系 guānxi concern, affect, matter, 係 tie, fasten, feel anxious, be concerned<br /><br />[jì] 係 tie, bind
-計|[jì] (=計算 jìsuàn) count, calculate, plot, plan, <family name>; 統計 tǒngjì statistics
+計|[jì] (=計算 jìsuàn) count, calculate, plot, plan, {family name}>; 統計 tǒngjì statistics

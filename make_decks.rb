@@ -71,14 +71,27 @@ def build_deck_of_top_n_cards(num_cards)
 
   headers = %w[front back]
   output_deck_filename = "top-#{num_cards}-chinese-characters.txt"
-  cards = []
 
   puts "Generating: #{output_deck_filename}"
 
-  most_common_chinese_characters.take(num_cards).each_with_index do |card, index|
+  # since there can be multiple entries for some characters, store descriptions onto an
+  # array keyed by character which we can join together later.
+  card_hash = {}
+
+  most_common_chinese_characters.take(num_cards).each do |pair|
+    character   = pair["character"]
+    description = pair["description"]
+
+    card_hash[character] ||= []
+    card_hash[character] << description
+  end
+
+  cards = []
+
+  card_hash.each do |character, descriptions|
     cards << {
-      "front" => card["character"],
-      "back" =>  card["description"],
+      "front" => character,
+      "back" =>  descriptions.join("<br /><br />"),
     }
   end
 
