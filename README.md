@@ -10,7 +10,7 @@ I wanted to make Anki decks out of the data on this page, so I wrote this script
 
 ## Usage
 
-Just import one of the .txt decks in the `decks` directory into Anki.  **IMPORTANT**: when you import the deck, you have to manually specify a pipe character ("|") as the field separator.
+Just import one of the .txt decks in the `decks` directory into Anki.  **IMPORTANT**: when you import the deck, you have to manually specify a pipe character ("|") as the field separator.  You'll also need to have **"Allow HTML in fields"** enabled.
 
 You can get Anki here:  [Anki website](http://ankisrs.net/)
 
