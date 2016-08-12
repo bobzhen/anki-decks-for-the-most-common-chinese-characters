@@ -49,6 +49,9 @@ def most_common_chinese_characters
       description.gsub!(/&lt;/i, "<")
       description.gsub!(/&gt;/i, ">")
       description.gsub!(/<br>/i, "\n")
+      # particles are described in <explanatory text> which Anki interprets as HTML, so
+      # replace <> with {} instead.
+      description.gsub!(/<([^>]+)/, "{\\1}")
       description.gsub!("\n", "<br /><br />")
       description.promote_traditional!
       description = Tradsim::to_trad(description)
