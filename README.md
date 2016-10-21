@@ -2,15 +2,13 @@
 
 I found this cool web page which breaks down most of the 3,000 Chinese characters in mainstream use by how common they are.  http://www.zein.se/patrick/3000char.html
 
-I wanted to make Anki decks out of the data on this page, so I wrote this script.
-
-**Note**: This script converts all the simplified characters to traditional because I have zero interest in ever visiting China.  If you want to generate simplified decks, get rid of the two methods monkeypatched onto the `String` class and remove the `tradsim` gem.
+I wanted to make Anki decks out of the data on this page, so I wrote this script.  There are decks for both traditional and simplified characters.
 
 加油！
 
 ## Usage
 
-Just import one of the .txt decks in the `decks` directory into Anki.  **IMPORTANT**: when you import the deck, you have to manually specify a pipe character ("|") as the field separator.  You'll also need to have **"Allow HTML in fields"** enabled.
+Just import one of the .txt decks under the `decks` directory into Anki.  **IMPORTANT**: when you import the deck, you have to manually specify a pipe character ("|") as the field separator.  You'll also need to have **"Allow HTML in fields"** enabled.
 
 You can get Anki here:  [Anki website](http://ankisrs.net/)
 
