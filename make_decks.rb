@@ -90,7 +90,7 @@ end
 # defaults to traditional characters
 # pass in "simplified: true" to get simplified characters
 def build_deck_of_top_n_cards(num_cards, options = {})
-  raise ArgumentError, "num_cards must be an integer" unless num_cards.class < Integer
+  raise ArgumentError, "num_cards must be an integer" unless num_cards.class <= Integer
 
   options[:simplified] ||= false
 
